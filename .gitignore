@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+photos/*
+!photos/.gitkeep
+*.mp4
+*.mov
